@@ -1,0 +1,16 @@
+D:\Estudos\Programacao\BootcampTakeBlip\DotNetPrimeirosPassos\Atividade\bin\Debug\net5.0\Atividade.exe
+D:\Estudos\Programacao\BootcampTakeBlip\DotNetPrimeirosPassos\Atividade\bin\Debug\net5.0\Atividade.deps.json
+D:\Estudos\Programacao\BootcampTakeBlip\DotNetPrimeirosPassos\Atividade\bin\Debug\net5.0\Atividade.runtimeconfig.json
+D:\Estudos\Programacao\BootcampTakeBlip\DotNetPrimeirosPassos\Atividade\bin\Debug\net5.0\Atividade.runtimeconfig.dev.json
+D:\Estudos\Programacao\BootcampTakeBlip\DotNetPrimeirosPassos\Atividade\bin\Debug\net5.0\Atividade.dll
+D:\Estudos\Programacao\BootcampTakeBlip\DotNetPrimeirosPassos\Atividade\bin\Debug\net5.0\ref\Atividade.dll
+D:\Estudos\Programacao\BootcampTakeBlip\DotNetPrimeirosPassos\Atividade\bin\Debug\net5.0\Atividade.pdb
+D:\Estudos\Programacao\BootcampTakeBlip\DotNetPrimeirosPassos\Atividade\obj\Debug\net5.0\Atividade.csproj.AssemblyReference.cache
+D:\Estudos\Programacao\BootcampTakeBlip\DotNetPrimeirosPassos\Atividade\obj\Debug\net5.0\Atividade.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos\Programacao\BootcampTakeBlip\DotNetPrimeirosPassos\Atividade\obj\Debug\net5.0\Atividade.AssemblyInfoInputs.cache
+D:\Estudos\Programacao\BootcampTakeBlip\DotNetPrimeirosPassos\Atividade\obj\Debug\net5.0\Atividade.AssemblyInfo.cs
+D:\Estudos\Programacao\BootcampTakeBlip\DotNetPrimeirosPassos\Atividade\obj\Debug\net5.0\Atividade.csproj.CoreCompileInputs.cache
+D:\Estudos\Programacao\BootcampTakeBlip\DotNetPrimeirosPassos\Atividade\obj\Debug\net5.0\Atividade.dll
+D:\Estudos\Programacao\BootcampTakeBlip\DotNetPrimeirosPassos\Atividade\obj\Debug\net5.0\ref\Atividade.dll
+D:\Estudos\Programacao\BootcampTakeBlip\DotNetPrimeirosPassos\Atividade\obj\Debug\net5.0\Atividade.pdb
+D:\Estudos\Programacao\BootcampTakeBlip\DotNetPrimeirosPassos\Atividade\obj\Debug\net5.0\Atividade.genruntimeconfig.cache
