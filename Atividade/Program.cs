@@ -47,7 +47,7 @@ namespace Atividade
 
                     case "3":
                         
-                        var notaTotal = 0;
+                        decimal notaTotal = 0;
                         var nrAlunos = 0;
 
                         for (int i=0; i < alunos.Length; i++)
